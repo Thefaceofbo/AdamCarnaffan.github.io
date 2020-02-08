@@ -7,15 +7,15 @@ img: pondering.jpg # Add image post (optional)
 tags: [Personal] # add tag
 ---
 
-Welcome again! I'm really excited that you're here and that I can share my interests with you. For anything more pertanent to any of our potential shared interests, check out some of my other posts. Here I will give you some background on who I am, what I get up to, and what I enjoy.
+Welcome! I'm really excited that you're here and that I can share my interests with you. For anything more pertanent to any of our potential shared interests, check out some of my other posts. Here I will give you some background on who I am, what I get up to, and what I enjoy.
 
 ## Who am I?
 
-I am a 19 year old living in Toronto. When I'm not in school, I'm either programming or I'm engaging in what social life my busy schedule allows. 
+I am a 19 year old living in Toronto, Ontario. I like to spend my time programming and socializing when I'm not in school, and I do a ton of things that I find super interesting and would love to share with you!
 
 ## My Interests
 
-Though my interests are many, my time is short, as is yours, I'd assume. As a result, I'd like to take the time to talk only about the most dominant interests in my life and the things that make me happiest. Beyond that, I hope that my posts over time will give a deeper insight into some of my more particular interests. 
+I'm someone who can be easily excited, and as a result my interests are many, though I will only mention a few dominant ones here now. Beyond that, I hope that my posts over time will give a deeper insight into some of my more particular interests. 
 
 ### Device Networking
 
@@ -23,7 +23,7 @@ Networking has been an interest of mine since 2015. I started in router technolo
 
 ### User Experience Design & Software Accessibility
 
-I have found interest in the design of user interface and the experience of the user with software since a QA position I held over the summers of 2017 & 2018. I find that using any application has a certain experience attached to it, and that will, in part, determine whether or not a user continues to use something that I may develop. As a result, I'm always very conscious of how I can improve the experience of anyone using any software, whether it be through plugins, modifications or the creation of a new tool.
+I have found interest in the design of user interface and the experience of the user with software since a QA position I held over the summers of 2017 & 2018. I find that using any application has a certain experience attached to it which will, in part, determine whether or not a user continues to use something that I may develop. I'm always very conscious of how I can improve the experience of anyone using any software, whether it be through plugins, modifications or the creation of a new tool.
 
 ### Figure Skating
 
